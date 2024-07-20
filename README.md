@@ -2,7 +2,7 @@
 
 🔗 Blockchain and Web3 Developer | ML Enthusiast
 
-I'm an experienced developer specializing in blockchain technology, particularly Ethereum POS blockchain and Web3. I also have a strong interest in Machine Learning. My passion lies in building scalable blockhain ecosystems, decentralized applications and leveraging ML to create innovative solutions.
+I'm an experienced developer specializing in blockchain technology, particularly Ethereum POS blockchain and Web3. I also have a strong interest in Machine Learning. My passion lies in building scalable blockchain ecosystems, decentralized applications and leveraging ML to create innovative solutions.
 
 🚀 Skills and Expertise:
 - Blockchain: Ethereum POS, Smart Contracts, Geth
