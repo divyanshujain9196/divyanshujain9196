@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi there! I'm Divyanshu Jain
 
-<!--
-**divyanshujain9196/divyanshujain9196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Blockchain and Web3 Developer | ML Enthusiast
 
-Here are some ideas to get you started:
+I'm an experienced developer specializing in blockchain technology, particularly Ethereum POS blockchain and Web3. I also have a strong interest in Machine Learning. My passion lies in building scalable blockhain ecosystems, decentralized applications and leveraging ML to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills and Expertise:
+- Blockchain: Ethereum POS, Smart Contracts, Geth
+- Web3: Web3.js, ethers.js, dApps
+- Machine Learning: TensorFlow, PyTorch, PaddleOCR, LLM
+- Languages: Go, Python, JavaScript, Node.js
+- Tools: Docker, Git, Linux, AWS, Google Cloud
+
+🌱 Always eager to learn and collaborate on exciting projects that push the boundaries of technology.
+
+📫 Let's connect and build something amazing together!
