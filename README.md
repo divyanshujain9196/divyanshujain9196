@@ -10,7 +10,7 @@ I'm a seasoned developer with a specialization in blockchain technology, focusin
 - Web3: Web3.js, ethers.js, dApps
 - Machine Learning: TensorFlow, PyTorch, PaddleOCR, LLM
 - Languages: Go, Python, JavaScript, Node.js
-- Tools: Docker, Git, Linux, AWS, Google Cloud
+- Tools: Docker, Git, Linux, Kubernetes, AWS, Google Cloud
 
 🌱 Always eager to learn and collaborate on exciting projects that push the boundaries of technology
 
