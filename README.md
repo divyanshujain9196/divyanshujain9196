@@ -1,17 +1,23 @@
-👋 Hi there! I'm Divyanshu Jain
+👋 Hi, I'm Divyanshu Jain
 
-🔗 Blockchain and Web3 Developer | ML Enthusiast
+🔗 Blockchain & Distributed Systems Engineer | Go | Ethereum | Protocol & Infrastructure | AI/LLM
 
-I'm a seasoned developer with a specialization in blockchain technology, focusing on Ethereum POS blockchain and Web3. My deep-rooted interest in Machine Learning drives me to merge these cutting-edge technologies. I am passionate about crafting scalable blockchain ecosystems and decentralized applications, while harnessing the power of ML to pioneer innovative solutions.
+I'm a software engineer specializing in blockchain, distributed systems, and backend engineering, with hands-on experience across Ethereum infrastructure, protocol-level systems, enterprise blockchain applications, and scalable backend platforms.
 
-🚀 Skills and Expertise:
+My experience includes working with Go-Ethereum, validator infrastructure, consensus mechanisms, multi-node blockchain networks, smart contracts, tokenization, and Web3 systems. I enjoy designing reliable, fault-tolerant systems and solving complex distributed systems problems.
 
-- Blockchain: Ethereum POS, Smart Contracts, Geth
-- Web3: Web3.js, ethers.js, dApps
-- Machine Learning: TensorFlow, PyTorch, PaddleOCR, LLM
-- Languages: Go, Python, JavaScript, Node.js
-- Tools: Docker, Git, Linux, Kubernetes, AWS, Google Cloud
+I'm also increasingly focused on AI/LLM-powered engineering, including LLM integrations, AI-assisted development, automation, and building intelligent backend systems.
 
-🌱 Always eager to learn and collaborate on exciting projects that push the boundaries of technology
+🚀 Skills & Expertise:
 
-📫 Let's connect and build something amazing together!
+- Blockchain: Ethereum, Geth, Validators, PoS/PoA/PoW, Smart Contracts, Tokenization
+- Distributed Systems: Consensus, Fault Tolerance, Multi-node Architectures, Scalability
+- Backend: Go, Python, Node.js, REST APIs, Distributed Backend Systems
+- Web3: ethers.js, Web3.js, dApps
+- AI/LLM: LLM Integrations, AI Agents, RAG, AI-assisted Development
+- Infrastructure: Docker, Kubernetes, Linux, AWS, Google Cloud
+- Databases & Systems: PostgreSQL, Redis, Message Queues
+
+🌱 Interested in building scalable systems at the intersection of Blockchain, AI, and Distributed Systems, with a long-term focus on system architecture and engineering leadership.
+
+📫 Always open to interesting engineering discussions, collaborations, and challenging problems.
